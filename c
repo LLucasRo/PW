@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+   <head>
+       <title>Trabalho</title>
+       <meta charset="UTF-8">
+    </head>
+    <body>
+<h2>Grupo C</h2>
+    <li>Argentina</li>
+    <ul style= "list-style-type: disc;">
+        <li>Quantas copas já participou:</li>
+        <ul>
+            <li>17 Participações!</li>
+        </ul>
+        <li>Premiações em copa:</li>
+        <ul>
+            <li>2 Titulos</li>
+        </ul>
+        <li>Nome do técnico:</li>
+        <ul>
+            <li>Lionel Scaloni </li>
+        </ul>
+        <li>Principais jogadores:</li>
+        <ul>
+            <li>(GOL)Emiliano Martínez, (DEF)Nicolás Hernán Gonzalo Otamendi, Lisandro Martínez, Gonzalo Montiel, Nahuel Molina Lucero, (MEI)Rodrigo Javier de Paul, Leandro Daniel Paredes, Giovani Lo Celso, (ATA) Lionel Messi, Ángel Di María, Paulo Dybala</li>
+        </ul>
+        <table border="1">
+            <tr>
+                <th colspan="7">Jogos</th>
+            </tr>
+            <tr>
+                <th>Data/hora</th>
+                <td>23/11 às 13:00</td>
+                <td>26/11 às 22:00</td>
+                <td>30/11 às 22:00</td>
+            </tr>
+            <tr>
+                <th>Estádio</th>
+                <td>Lusail Stadium</td>
+                <td> Lusail Stadium</td>
+                <td>Stadium 974</td>
+            </tr>
+            <tr>
+                <th>Adversários</th>
+                <td>Arábia Saudita</td>
+                <td>México</td>
+                <td>Polônia</td>
+            </tr>
+        </table>
+    </ul>
+    <li>Arábia Saudita</li>
+    <ul style= "list-style-type: disc;">
+        <li>Quantas copas já participou:</li>
+        <ul>
+            <li>5 Participações!</li>
+        </ul>
+        <li>Premiações em copa:</li>
+        <ul>
+            <li>Nenhuma!</li>
+        </ul>
+        <li>Nome do técnico:</li>
+        <ul>
+            <li>Hervé Renard</li>
+        </ul>
+        <li>Principais jogadores:</li>
+        <ul>
+            <li>(GOL)Mohammed Al-Owais, (DEF)Abdullah Madu, Mohammed Al-Breik, Saud Abdulhamid, Yasser Al-Shahrani, (MEI)Salem Al-Dawsari, Abdulrahman Al-Aboud, Mohammed Kanno, Fahad Al-Muwallad, (ATA)Firas Al-Buraikan, Saleh Al-Shehri, Abdullah Al-Hamdan</li>
+        </ul>
+        <table border="1">
+            <tr>
+                <th colspan="7">Jogos</th>
+            </tr>
+            <tr>
+                <th>Data/hora</th>
+                <td>23/11 às 13:00</td>
+                <td>26/11 ás 16:00</td>
+                <td>30/11 ás 22:00</td>
+            </tr>
+            <tr>
+                <th>Estádio</th>
+                <td>Lusail Stadium </td>
+                <td>Education City </td>
+                <td>Lusail Stadium</td>
+            </tr>
+            <tr>
+                <th>Adversários</th>
+                <td>Argentina</td>
+                <td>Polônia</td>
+                <td>México</td>
+            </tr>
+        </table>
+    </ul>
+    <li>México</li>
+    <ul style= "list-style-type: disc;">
+        <li>Quantas copas já participou:</li>
+        <ul>
+            <li>16 Participações!</li>
+        </ul>
+        <li>Premiações em copa:</li>
+        <ul>
+            <li>Nenhuma!</li>
+        </ul>
+        <li>Nome do técnico:</li>
+        <ul>
+            <li>Gerardo Martino</li>
+        </ul>
+        <li>Principais jogadores:</li>
+        <ul>
+            <li>(GOL)Guillermo Ochoa, (DEF)Julian Araujo.Gerardo Arteaga, Jorge Sánchez, Johan Vásquez, (MEI)Marcelo Flores, Diego Lainez, Hector Herrera, (ATA)Hirving Lozano, Raúl Jiménez, Rogelio Funes Mori</li>
+        </ul>
+        <table border="1">
+            <tr>
+                <th colspan="7">Jogos</th>
+            </tr>
+            <tr>
+                <th>Data/hora</th>
+                <td>22/11 ás 19:00</td>
+                <td>26/11 ás 22:00</td>
+                <td>30/11 ás 22:00</td>
+            </tr>
+            <tr>
+                <th>Estádio</th>
+                <td>Stadium 974</td>
+                <td>Lusail Stadium</td>
+                <td>Lusail Stadium</td>
+            </tr>
+            <tr>
+                <th>Adversários</th>
+                <td>Polônia</td>
+                <td>Argentina</td>
+                <td>Arábia Saudita</td>
+            </tr>
+        </table>
+    </ul>
+    <li>Polônia</li>
+    <ul style= "list-style-type: disc;">
+        <li>Quantas copas já participou:</li>
+        <ul>
+            <li>8 Participações!</li>
+        </ul>
+        <li>Premiações em copa:</li>
+        <ul>
+            <li>Nenhuma!</li>
+        </ul>
+        <li>Nome do técnico:</li>
+        <ul>
+            <li>Czesław Michniewicz</li>
+        </ul>
+        <li>Principais jogadores:</li>
+        <ul>
+            <li>(GOL) Tomasz Szczęsny, (DEF) Bartosz Bereszyński, Kamil Jacek Glik, Maciej Rybus , Pawel Dawidowicz, (MEI) Kamil Jan Jóźwiak, Grzegorz Krychowiak, Karol Linetty, Piotr Sebastian Zieliński, (ATA) Dawid Kownacki, Robert Lewandowski, Krzysztof Piątek </li>
+        </ul>
+        <table border="1">
+            <tr>
+                <th colspan="7">Jogos</th>
+            </tr>
+            <tr>
+                <th>Data/hora</th>
+                <td>22/11 às 19:00</td>
+                <td>26/11 ás 16:00</td>
+                <td>30/11 ás 22:00</td>
+            </tr>
+            <tr>
+                <th>Estádio</th>
+                <td>Stadium 974</td>
+                <td>Education City</td>
+                <td> Stadium 974</td>
+            </tr>
+            <tr>
+                <th>Adversários</th>
+                <td> México </td>
+                <td>Arábia Saudita</td>
+                <td>Argentina</td>
+            </tr>
+        </table>
+    </ul>
+    </html>    
+</body>
